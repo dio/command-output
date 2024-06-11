@@ -13,9 +13,9 @@
   "author": "Mathias Rasmussen <mathiasvr@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "@actions/core": "^1.10.0",
-    "@vercel/ncc": "^0.36.1",
-    "eslint-config-standard": "^17.0.0"
+    "@actions/core": "1.10.1",
+    "@vercel/ncc": "0.38.1",
+    "eslint-config-standard": "17.1.0"
   },
   "repository": {
     "type": "git",
